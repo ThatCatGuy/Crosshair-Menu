@@ -5,7 +5,6 @@ CatGuy_Crosshair.Default = 12
 CatGuy_Crosshair.DefaultColour = "220, 220, 220, 245"
 CatGuy_Crosshair.DefaultSize = 12
 
-CatGuy_Crosshair.OpenWithKey = true
 CatGuy_Crosshair.OpenKey = KEY_F6
 
 CatGuy_Crosshair.List = {
